@@ -496,6 +496,7 @@
 				6CB978C91BCF64410031439C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6CB978CA1BCF64410031439C /* Build configuration list for PBXNativeTarget "iWeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				6CB978CC1BCF64410031439C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6CB978CD1BCF64410031439C /* Build configuration list for PBXNativeTarget "iWeatherUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				6CB978CF1BCF64410031439C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
